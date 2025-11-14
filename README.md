@@ -1,1 +1,1 @@
-# FitTrack--logo
+# fittrack-logo
